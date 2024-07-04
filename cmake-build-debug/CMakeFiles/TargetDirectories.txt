@@ -1,0 +1,3 @@
+C:/Users/alman/CLionProjects/uebung2Prg4/cmake-build-debug/CMakeFiles/uebung2Prg4.dir
+C:/Users/alman/CLionProjects/uebung2Prg4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alman/CLionProjects/uebung2Prg4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
